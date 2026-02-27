@@ -41,20 +41,20 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 ---
 
-## 🌐 Main page
+## Main page
 
 **Main Hub/Page**
 <img src="assets/1.png" width="100%">
 ---
 
-## 🚀 Core Modules
+## Core Modules
 
-### 1. 🌍 Macroeconomics & Sovereign Risk
+### 1. Macroeconomics & Sovereign Risk
 
 * **Global Sovereign Risk Mapping (`sovereignrisk.py`):** Algorithmic stress-testing of 218 countries. Analyzes 6 macroeconomic pillars (Real Sector, External Sector, Public Sector, Monetary Stability, Social Cohesion, Governance) using World Bank & IMF data to estimate S&P-style ratings.
 * **Macro & FX Engine (`macro_analysis.py`):** Real-time foreign exchange spot rate matrices, relative purchasing power tracking, and cross-asset correlation heatmaps.
 
-#### 📸 Sovereign Risk Diagnostics (`sovereignrisk.py`)
+#### Sovereign Risk Diagnostics (`sovereignrisk.py`)
 
 **Global Risk Mapping**
 <img src="assets/2.png" width="100%">
@@ -74,7 +74,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Post-Shock Structural Deviation**
 <img src="assets/7.png" width="100%">
 
-#### 📸 Macro & FX Engine (`macro_analysis.py`)
+#### Macro & FX Engine (`macro_analysis.py`)
 
 **FX Spot Matrix**
 <img src="assets/8.png" width="100%">
@@ -90,12 +90,12 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 ---
 
-### 2. 📊 Markets & Assets
+### 2. Markets & Assets
 
 * **Sector Analysis Heatmap (`sector_analysis.py`):** Hierarchical Treemap visualizations of market dynamics, tracking relative volume anomalies and sectoral rotation.
 * **Technical Analysis (`app.py`):** Interactive, fully customizable charting using Plotly.
 
-#### 📸 Sector Analysis Dynamics (`sector_analysis.py`)
+#### Sector Analysis Dynamics (`sector_analysis.py`)
 
 **S&P 500 Performance Heatmap**
 <img src="assets/12.png" width="100%">
@@ -112,7 +112,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Sectorial Volume Ranking**
 <img src="assets/15.png" width="100%">
 
-#### 📸 Technical Analysis & Charting (`app.py`)
+#### Technical Analysis & Charting (`app.py`)
 
 **Interactive Price Action Charting**
 <img src="assets/16.png" width="100%">
@@ -128,13 +128,13 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 ---
 
-### 3. 💼 Portfolio & AI
+### 3. Portfolio & AI
 
 * **System Allocator (`portfolio.py`):** Advanced portfolio construction utilizing Markowitz Efficient Frontier, Risk Parity, and Black-Litterman models.
 * **NLP Sentiment Scanner (`news_analysis.py`):** Integrates HuggingFace's `ProsusAI/finbert` model.
 * **Economic Calendar (`calendar_events.py`):** Macro & Micro events tracking.
 
-#### 📸 System Allocator & Tracking (`portfolio.py`)
+#### System Allocator & Tracking (`portfolio.py`)
 
 | Asset Selection | Allocation Setup |
 |:---:|:---:|
@@ -146,7 +146,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Historical Trajectory vs Benchmark**
 <img src="assets/23.png" width="100%">
 
-#### 📸 Quantitative Optimization & Allocation Models
+#### Quantitative Optimization & Allocation Models
 
 **Markowitz Efficient Frontier & Correlation**
 <img src="assets/27.png" width="100%">
@@ -154,7 +154,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Black-Litterman & Risk Parity Models**
 <img src="assets/28.png" width="100%">
 
-#### 📸 Algorithmic Backtesting Lab
+#### Algorithmic Backtesting Lab
 
 **Max Drawdown & Strategy Setup**
 <img src="assets/24.png" width="100%">
@@ -162,7 +162,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Strategic Portfolio Evolution**
 <img src="assets/25.png" width="100%">
 
-#### 📸 Risk Management & Strategy Comparison
+#### Risk Management & Strategy Comparison
 
 **Strategy Performance Metrics**
 <img src="assets/26.png" width="100%">
@@ -170,7 +170,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Value at Risk (VaR) Engine**
 <img src="assets/29.png" width="100%">
 
-#### 📸 Advanced Risk & Monte Carlo Projections
+#### Advanced Risk & Monte Carlo Projections
 
 **Monte Carlo Forward Projections**
 <img src="assets/30.png" width="100%">
@@ -181,12 +181,12 @@ Whether you are conducting academic econometric research, backtesting technical 
 **Resilience Comparative Matrix**
 <img src="assets/32.png" width="100%">
 
-#### 📸 NLP Sentiment Scanner (`news_analysis.py`)
+#### NLP Sentiment Scanner (`news_analysis.py`)
 
 **AI Sentiment Driver Analysis**
 <img src="assets/33.png" width="100%">
 
-#### 📸 Market Calendar & Corporate Events (`calendar_events.py`)
+#### Market Calendar & Corporate Events (`calendar_events.py`)
 
 **Macroeconomic Events Calendar**
 <img src="assets/34.png" width="100%">
@@ -210,7 +210,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/yourusername/quant-terminal.git](https://github.com/valentinhamon35/quant-terminal.git)
+git clone [https://github.com/valentinhamon35/quant-terminal.git](https://github.com/valentinhamon35/quant-terminal.git)
 cd quant-terminal
 ```
 
