@@ -39,35 +39,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 * **NLP Sentiment Scanner (`news_analysis.py`):** Integrates HuggingFace's `ProsusAI/finbert` model to scan real-time financial news, computing a live Fear & Greed index and extracting institutional sentiment from news headlines and summaries.
 * **Economic Calendar (`calendar_events.py`):** Aggregates macroeconomic events (ForexFactory) and microeconomic corporate events (Earnings & Ex-Dividend dates).
 
-<h1 align="center">
-  QUANT-TERMINAL
-</h1>
-
-<h4 align="center">Quantitative Strategic Unit & Market Dashboard</h4>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python">
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Framework-FF4B4B?style=flat-square&logo=streamlit">
-  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-Data_Viz-3f4f75?style=flat-square&logo=plotly">
-  <img alt="HuggingFace" src="https://img.shields.io/badge/AI-FinBERT-F9AB00?style=flat-square">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
-</p>
-
-<p align="center">
-  <strong>Macroeconomics • Portfolio Optimization • Technical Analysis • AI Sentiment • Sovereign Risk</strong>
-</p>
-
 ---
-
-## 🌐 Overview
-
-**Quant-Terminal** is a comprehensive, multi-page financial dashboard built with Streamlit. Designed with a custom "Holographic Neon" terminal aesthetic, it serves as a central hub for deep quantitative analysis, macro-financial modeling, and algorithmic portfolio management.
-
-Whether you are conducting academic econometric research, backtesting technical trading strategies, or assessing sovereign debt sustainability, this terminal aggregates real-time data and advanced mathematical models into a single, high-performance UI.
-
-### 🎥 Video of QUANT_TERMINAL
-
-<video src="assets/QUANT_TERMINAL.mp4" controls="controls" width="100%"></video>
 
 ## 🌐 Main page
 
