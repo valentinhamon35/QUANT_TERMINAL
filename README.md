@@ -74,7 +74,7 @@ Whether you are conducting academic econometric research, backtesting technical 
 <p align="center">
   <img src="assets/1.jpg" width="100%" alt="Main Hub Interface">
   <br>
-  <em>Terminal Main Hub (AETHER.CORE)</em>
+  <em>Terminal Main Hub</em>
 </p>
 
 ---
