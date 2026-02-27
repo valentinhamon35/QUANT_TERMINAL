@@ -89,7 +89,9 @@ Whether you are conducting academic econometric research, backtesting technical 
 #### 📸 Sovereign Risk Diagnostics (`sovereignrisk.py`)
 | Global Risk Mapping | Safety vs Growth Matrix | Sovereign Radar & Scoring |
 |:---:|:---:|:---:|
-| <img src="assets/2.jpg" width="100%" alt="Map"> | <img src="assets/3.png" width="100%" alt="Matrix"> | <img src="assets/4.jpg" width="100%" alt="Radar"> |
+| <img src="assets/2.jpg" width="100%" alt="Map"> 
+| <img src="assets/3.png" width="100%" alt="Matrix"> 
+| <img src="assets/4.jpg" width="100%" alt="Radar"> |
 
 | Pillar Breakdown | Stress-Test Simulator | Post-Shock Structural Deviation |
 |:---:|:---:|:---:|
