@@ -71,12 +71,8 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 ## 🌐 Main page
 
-<p align="center">
-  <img src="assets/1.jpg" width="100%" alt="Main Hub Interface">
-  <br>
-  <em>Terminal Main Hub</em>
-</p>
-
+**Main Hub/Page**
+<img src="assets/1.png" width="100%">
 ---
 
 ## 🚀 Core Modules
@@ -168,11 +164,9 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 #### 📸 System Allocator & Tracking (`portfolio.py`)
 
-**Asset Selection**
-<img src="assets/20.png" width="100%">
-
-**Allocation Setup**
-<img src="assets/21.png" width="100%">
+| Asset Selection | Allocation Setup |
+|:---:|:---:|
+| <img src="assets/20.png" width="100%" alt="Asset Selection"> | <img src="assets/21.png" width="100%" alt="Allocation Amount"> |
 
 **Active Positions Detail**
 <img src="assets/22.png" width="100%">
@@ -229,7 +223,8 @@ Whether you are conducting academic econometric research, backtesting technical 
 <img src="assets/35.png" width="100%">
 
 **Ex-Dividend Dates Tracker**
-<img src="assets/36.png" width="100%">---
+<img src="assets/36.png" width="100%">
+---
 
 ## Tech Stack
 
@@ -297,4 +292,5 @@ Developed as part of academic and quantitative research initiatives at the **Uni
 
 ---
 *Disclaimer: This software is for academic and informational purposes only and does not constitute financial advice.*
+
 
