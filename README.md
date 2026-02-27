@@ -65,6 +65,12 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 Whether you are conducting academic econometric research, backtesting technical trading strategies, or assessing sovereign debt sustainability, this terminal aggregates real-time data and advanced mathematical models into a single, high-performance UI.
 
+### 🎥 Video of QUANT_TERMINAL
+
+<video src="assets/QUANT_TERMINAL.mp4" controls="controls" width="100%"></video>
+
+## 🌐 Main page
+
 <p align="center">
   <img src="assets/1.jpg" width="100%" alt="Main Hub Interface">
   <br>
