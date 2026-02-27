@@ -1,5 +1,5 @@
 <h1 align="center">
-  QUANT-TERMINAL
+  QUANT_TERMINAL
 </h1>
 
 <h4 align="center">Quantitative Strategic Unit & Market Dashboard</h4>
@@ -20,7 +20,7 @@
 
 ## Overview
 
-**Quant-Terminal** is a comprehensive, multi-page financial dashboard built with Streamlit. Designed with a custom "Holographic Neon" terminal aesthetic, it serves as a central hub for deep quantitative analysis, macro-financial modeling, and algorithmic portfolio management.
+**QUANT_TERMINAL** is a comprehensive, multi-page financial dashboard built with Streamlit. Designed with a custom "Holographic Neon" terminal aesthetic, it serves as a central hub for deep quantitative analysis, macro-financial modeling, and algorithmic portfolio management.
 
 Whether you are conducting academic econometric research, backtesting technical trading strategies, or assessing sovereign debt sustainability, this terminal aggregates real-time data and advanced mathematical models into a single, high-performance UI.
 
@@ -210,8 +210,8 @@ Whether you are conducting academic econometric research, backtesting technical 
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/valentinhamon35/quant-terminal.git](https://github.com/valentinhamon35/quant-terminal.git)
-cd quant-terminal
+git clone [https://github.com/valentinhamon35/QUANT_TERMINAL.git](https://github.com/valentinhamon35/QUANT_TERMINAL.git)
+cd QUANT_TERMINAL
 ```
 
 2. **Create a virtual environment (recommended):**
@@ -236,7 +236,7 @@ streamlit run main.py
 ## Project Structure
 
 ```text
-quant-terminal/
+QUANT_TERMINAL/
 ├── main.py                # Main hub and Streamlit page routing
 ├── style_utils.py         # Global CSS, Neon/Holo UI design system, and signature
 ├── app.py                 # Technical analysis & charting engine
